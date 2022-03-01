@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SenjuCode
-- 👀 I’m interested in gaming development and cybersecurity.
+- 👀 I’m interested in game development and cybersecurity.
 - 🌱 I’m currently learning Python, JS, Springbooth and ethical hacking.
 - 💞️ I’m looking to collaborate on game, app developements.
 
